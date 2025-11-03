@@ -150,7 +150,7 @@ void generateCodes(int root, string codes[]) {
             }
         }
     }
-
+}
 // Step 5: Print table and encoded message
 void encodeMessage(const string& filename, string codes[]) {
     cout << "\nCharacter : Code\n";
